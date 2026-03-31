@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+venv/
+env/
+
+# Build
+dist/
+.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Results
+result_*.png
+*.jpg
+*.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
