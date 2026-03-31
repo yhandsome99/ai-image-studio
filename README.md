@@ -1,6 +1,6 @@
 # 🎨 AI Image Style Transfer Studio
 
-> **学号**: 423830113 | **姓名**: 浮标
+> **学号**: 423830119 | **姓名**: 杨梓豪
 
 基于 AI 的图像风格迁移 Web 应用，支持将任意图片转换为艺术风格。
 
@@ -40,7 +40,8 @@ python main.py
 ## 🎯 AI 模型说明
 
 本项目使用 **Stable Diffusion img2img** 管道：
-- 模型：unwayml/stable-diffusion-v1-5
+- 模型：
+unwayml/stable-diffusion-v1-5
 - 任务：图像到图像风格迁移
 - 参数：
   - strength：风格强度 (0.0-1.0)
